@@ -9,3 +9,21 @@ comandos para terminal
 -ls = lista de la carpeta
 -cd = cambiar direccion
 - git init - es para inicializar y solo se hace una vez
+-vim editor de texto para terminal
+- A git hay que decirle "quien eres" para poder agregar archivos.
+hay que usar los comandos 
+* $ git config --global user.name "Dulce Gracia"
+*$ git config --global user.email "dulce_gracia_19@hotmail.com"
+
+para corroborar
+*$ git config --global user.name
+*$ git config --global user.email
+
+-----------------------------------
+para salir despues del commit
+usar [esc]+ :qw
+
+------------------
+touch .gitignore
+touch funciona para crear archivos sin nombre entre otras cosas
+------------------
