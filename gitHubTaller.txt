@@ -27,3 +27,10 @@ usar [esc]+ :qw
 touch .gitignore
 touch funciona para crear archivos sin nombre entre otras cosas
 ------------------
+Cuando sale este mensaje es porque no hay nada que modificar.
+-
+On branch master
+nothing to commit, working tree clean
+-
+---------------------
+
